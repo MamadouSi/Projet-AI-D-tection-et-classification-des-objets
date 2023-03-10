@@ -11,7 +11,7 @@ Geofama : capacité intégrée pour détecter les petits et grands véhicules, a
 aéronefs dans les environnements urbains, ruraux et industriels. Il a la capacité 
 de classer les véhicules, de fournir des décomptes et des coordonnées 
 géographiques. 
- Principales caractéristiques
- Détection des objets sur des images (véhicules, bâtiments, etc.)
- Classification des objets détectés par catégories
- Affichage de statistique par objet et par catégorie
+- Principales caractéristiques
+- Détection des objets sur des images (véhicules, bâtiments, etc.)
+- Classification des objets détectés par catégories
+- Affichage de statistique par objet et par catégorie
